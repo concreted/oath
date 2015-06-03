@@ -1,2 +1,2 @@
 #oath
-This is a project I completed as a student at [Hack Reactor](http://hackreactor.com). This project was worked on with a pair.
+this is a study project worked on at [Hack Reactor](http://hackreactor.com). it is intended to be an a+ compliant promise implementation.
